@@ -2,7 +2,8 @@
 .vscode/
 .idea/
 .agents/
-assets/
+.assets/
+
 # OS metadata
 .DS_Store
 Thumbs.db
@@ -11,3 +12,4 @@ desktop.ini
 # Logs & temp files
 *.log
 blueprint.json
+upload-to-svn.ps1
