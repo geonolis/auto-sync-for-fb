@@ -1,7 +1,8 @@
 # IDE & editor files
 .vscode/
 .idea/
-
+.agents/
+assets/
 # OS metadata
 .DS_Store
 Thumbs.db
@@ -9,3 +10,4 @@ desktop.ini
 
 # Logs & temp files
 *.log
+blueprint.json
